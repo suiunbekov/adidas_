@@ -1,0 +1,11 @@
+#product-card {
+  display: flex;
+  overflow: scroll;
+  /* align-items: center; */
+  gap: 5pc;
+}
+.product {
+  display: flex;
+  gap: 3pc;
+  padding: 3pc 0;
+}

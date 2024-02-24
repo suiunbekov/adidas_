@@ -1,0 +1,10 @@
+.text {
+  font-size: 0px;
+}
+.headerItem h2 {
+  font-size: 30px;
+  font-weight: 900;
+  color: rgb(0, 0, 0);
+  border-bottom: 2px solid black;
+  padding: 1pc 0;
+}

@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "3ebc",
+      "name": "adidas",
+      "price": "150$",
+      "type": "",
+      "image": "https://images.prom.ua/5013449930_w640_h640_teplaya-originalnaya-muzhskaya.jpg"
+    },
+    {
+      "id": "19a4",
+      "name": "adidas",
+      "price": "830$",
+      "type": "",
+      "image": "https://images.prom.ua/4711319183_w640_h640_sportivnyj-kostyum-adidas.jpg"
+    },
+    {
+      "id": "40cc",
+      "name": "adidas",
+      "price": "850$",
+      "type": "",
+      "image": "https://images.prom.ua/3645964403_w640_h640_muzhskoj-sportivnyj-kostyum.jpg"
+    },
+    {
+      "id": "275c",
+      "name": "adidas",
+      "price": "930$",
+      "type": "",
+      "image": "https://images.prom.ua/3529604091_w700_h500_muzhskoj-sportivnyj-kostyum.jpg"
+    },
+    {
+      "id": "bc67",
+      "name": "adidas",
+      "price": "680$",
+      "type": "",
+      "image": "https://images.prom.ua/3663465639_w640_h640_sportivnyj-muzhskoj-kostyum.jpg"
+    },
+    {
+      "id": "a340",
+      "name": "фвшвфы",
+      "price": "300;",
+      "type": "",
+      "image": "https://www.exportasia.ru/image/817ee3de-8144-4fb5-8ca6-337b7e5ced92/700/500/%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%BA%D0%B0-climalite-%D1%85-%D0%B1-adidas-torneo-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D1%8B-%D0%BE%D1%82-48?set=False&path=000000000035022%2F817ee3de-8144-4fb5-8ca6-337b7e5ced92.jpg"
+    },
+    {
+      "id": "7cc5",
+      "name": "adidas",
+      "price": "900$",
+      "type": "",
+      "image": "https://img.alicdn.com/imgextra/i2/133227658/O1CN0126RPXUK7ObT9JEl_!!0-item_pic.jpg"
+    }
+  ]
+}
